@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Movie_flix/static/css/main.f01ecca8.chunk.css",
+    "main.js": "/Movie_flix/static/js/main.6bb0cec0.chunk.js",
+    "main.js.map": "/Movie_flix/static/js/main.6bb0cec0.chunk.js.map",
+    "runtime-main.js": "/Movie_flix/static/js/runtime-main.366c5a47.js",
+    "runtime-main.js.map": "/Movie_flix/static/js/runtime-main.366c5a47.js.map",
+    "static/js/2.92c76b45.chunk.js": "/Movie_flix/static/js/2.92c76b45.chunk.js",
+    "static/js/2.92c76b45.chunk.js.map": "/Movie_flix/static/js/2.92c76b45.chunk.js.map",
+    "index.html": "/Movie_flix/index.html",
+    "static/css/main.f01ecca8.chunk.css.map": "/Movie_flix/static/css/main.f01ecca8.chunk.css.map",
+    "static/js/2.92c76b45.chunk.js.LICENSE.txt": "/Movie_flix/static/js/2.92c76b45.chunk.js.LICENSE.txt",
+    "static/media/logo.2e2559d6.png": "/Movie_flix/static/media/logo.2e2559d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366c5a47.js",
+    "static/js/2.92c76b45.chunk.js",
+    "static/css/main.f01ecca8.chunk.css",
+    "static/js/main.6bb0cec0.chunk.js"
+  ]
+}
