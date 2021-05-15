@@ -1,0 +1,40 @@
+.hero {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero__title {
+    font-size: 32px;
+    font-family: 'Lato';
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.movie__poster {
+    max-height: 60vh;
+    max-width: 50vw;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
+.movie__details {
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+    justify-content: space-evenly;
+}
+
+.movie__details>ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.movie__details>ul>li {
+    font-family: 'Lato';
+    font-size: 16px;
+    margin: 5px 0;
+}
