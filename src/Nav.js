@@ -5,7 +5,7 @@ import logo from "./logo.png";
 function Nav() {
   return (
     <div className="Nav">
-      <a href="/" className="brand">
+      <a href="#home" className="brand">
         <img src={logo} alt="Movie.fy" className="brand__logo" />
         <h1 href="#" className="brand__name">Movie.fy</h1>
       </a>
